@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.book{
+    border: solid;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    background-color: aqua;
+}
